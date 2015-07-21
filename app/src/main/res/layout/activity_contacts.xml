@@ -14,7 +14,7 @@
             android:layout_marginTop="@dimen/activity_contacts.margin.18dp"
             android:layout_marginLeft="@dimen/activity_contacts.margin.18dp"
             android:layout_marginBottom="@dimen/activity_contacts.margin.18dp"
-            android:backgrgound="@drawable/ic_back"></ImageView>
+            android:background="@drawable/ic_back"></ImageView>
         <TextView android:id="@+id/tvContacts"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/textview.text_size.24sp"
