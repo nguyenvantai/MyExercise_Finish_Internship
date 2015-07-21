@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/rl_one_contactsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_contacts.height.52dp"
+        android:background="@color/activity_contacts.color.blue">
+        <ImageView android:id="@+id/imgBack"
+            android:layout_height="@dimen/ic_back.height.18dp"
+            android:layout_width="@dimen/ic_back.width.19dp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="@dimen/activity_contacts.margin.18dp"
+            android:layout_marginLeft="@dimen/activity_contacts.margin.18dp"
+            android:layout_marginBottom="@dimen/activity_contacts.margin.18dp"
+            android:backgrgound="@drawable/ic_back"></ImageView>
+        <TextView android:id="@+id/tvContacts"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textview.text_size.24sp"
+            android:text="@string/textview.text.contacts"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:layout_marginLeft="@dimen/textview.margin.100dp"
+            android:textColor="@color/textview.text_color.white"
+            android:layout_alignBaseline="@+id/imgBack"></TextView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_contacts.height.52dp">52dp</dimen>
+    <dimen name="ic_back.width.19dp">19dp</dimen>
+    <dimen name="ic_back.height.18dp">18dp</dimen>
+    <dimen name="activity_contacts.margin.18dp">18dp</dimen>
+    <dimen name="textview.margin.100dp">100dp</dimen>
+    <dimen name="textview.text_size.18dp">18dp</dimen>
+    <dimen name="textview.text_size.24sp">24sp</dimen>
+
+
+</resources>

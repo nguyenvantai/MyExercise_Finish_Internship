@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyExercise_Finish_Internship</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="relativeLayout.id.one_contactsLayout">one_contactsLayout</string>
+    <string name="textview.text.contacts">Contacts</string>
+</resources>
